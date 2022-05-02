@@ -1,5 +1,5 @@
--Hi, I'm Tina
--Just having fun.
+Hi, I'm Tina.
+I'm just having fun.
 
 <!---
 TinaTabby/TinaTabby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
